@@ -1,0 +1,27 @@
+*, body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.menu {
+    list-style: none;
+    padding: 5px;
+}
+.menu-item {
+    float: left;
+    margin-right: 10px;
+    background-color: #0E2F44;
+    padding: 8px;
+    border-radius: 5px;
+}
+.menu-item a {
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    
+}
